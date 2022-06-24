@@ -173,10 +173,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ViperFX
 
-# Remove unwanted packages
-PRODUCT_PACKAGES += \
-    RemovePackages
-
 # Symbols
 PRODUCT_PACKAGES += \
     libshim_vtservice
